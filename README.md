@@ -92,10 +92,11 @@ Tabulation
 
 ![WhatsApp Image 2025-10-08 at 21 51 09_cc53555a](https://github.com/user-attachments/assets/c7f7104b-8329-4306-bd38-3137cc1ca668)
 
-![WhatsApp Image 2025-10-08 at 21 51 38_ec9d27f2](https://github.com/user-attachments/assets/da6beb15-32f4-4f6f-a478-fa03bfd8684f)
+
 
 Calculation
 
+![WhatsApp Image 2025-10-08 at 21 51 38_ec9d27f2](https://github.com/user-attachments/assets/da6beb15-32f4-4f6f-a478-fa03bfd8684f)
 
 
 Frequency Deviation Practical = 2.1
